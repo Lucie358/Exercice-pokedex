@@ -21,7 +21,7 @@ En haut du site, nous pouvons revenir sur l'accueil en cliquant sur liste, ou vo
 En cliquant sur un type, nous avons une liste de tous les pokemons appartenant à ce type, tous cliquable vers leur page personnelle: 
 <img src ="public/img/capture4.png">
 
-Pour avoir un aperçu de l'application, il suffit de l'a cloner et de vous rendre dans le dossier public.
+Pour avoir un aperçu de l'application, il suffit de l'a cloner et de vous rendre dans le dossier public après avoir importé le fichier sql.
 
 
 
