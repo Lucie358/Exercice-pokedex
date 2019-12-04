@@ -1,0 +1,17 @@
+{
+    "name": "fabio/pokedex",
+    "description": "Small pokedex for educational purpose",
+    "type": "project",
+    "authors": [
+        {
+            "name": "Fabio",
+            "email": "fabio@oclock.io"
+        }
+    ],
+    "require": {
+        "altorouter/altorouter": "^1.2"
+    },
+    "require-dev": {
+        "symfony/var-dumper": "^4.3"
+    }
+}
